@@ -38,23 +38,15 @@ Built as part of a full-stack banking solution, this project focuses on the **UI
 
 ## ⚙️ Getting Started
 
-### Clone the repo
+### Clone the repository
 ```bash
 git clone https://github.com/StevenErazoLaguna/BuhoBank-Interface.git
 cd BuhoBank-Interface
-Install dependencies
-bash
-Copiar código
 npm install
-Start development server
-bash
-Copiar código
 npm run dev
-Visit http://localhost:3000 to use the app.
-
-📁 Project Structure
-csharp
-Copiar código
+```
+##📁 Project Structure
+```
 📦 BuhoBank-Interface
 ├── public/
 ├── src/
@@ -65,13 +57,4 @@ Copiar código
 │   └── App.jsx
 ├── vite.config.js
 └── package.json
-🌐 Future Improvements
-🔐 Add authentication and user sessions (JWT / OAuth)
-
-🌍 Integrate real-time API with backend services
-
-📊 Add visual charts for financial insights
-
-📩 Implement notifications and alerts
-
-🌙 Dark mode and accessibility enhancements
+```
